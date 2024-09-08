@@ -1,1 +1,1 @@
-# Semantic-Segmentation-of-handwritten-numbers-
+# BACHELOR'S THESIS PROJECT (BTP)
